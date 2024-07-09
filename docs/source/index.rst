@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Kèo nhà cái Thông Minh - Trang soi kèo chính xác bởi FB88 - intelligentmp.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kèo nhà cái Thông minh <https://intelligentmp.com/>`_ - Trang soi kèo chính xác FB88 - Cập nhật nhanh nhất tỷ lệ cược của các trận đấu thể thao: bóng đá, tennis, bóng bàn, bóng rổ,.. Đăng ký theo dõi ngay hôm nay để không bỏ bất kỳ kèo thơm hấp dẫn nào! 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 112/37 Đ. Thạnh Xuân 22, Thạnh Xuân, Quận 12, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0885123670. 
 
-Contents
---------
+Email:info@intelligentmp.com. 
 
-.. toctree::
+Website: https://intelligentmp.com/
 
-   usage
-   api
+#keonhacai #tructiepkeonhacai #keotructuyen  #intelligentmpcom #keonhacaithongminh #thongminh #intelligent
